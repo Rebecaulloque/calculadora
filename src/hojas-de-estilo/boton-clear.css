@@ -1,0 +1,19 @@
+.boton-clear{
+    height: 65px;
+    font-size: 1.6em;
+    background-color: #a52a2a;
+    display: flex;
+    flex: 1;
+    margin-top: 8px;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+    border-radius: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    cursor: pointer;
+    user-select: none;
+}
+
+.boton-clear:hover{
+    background-color: #ce3e3e;
+}
